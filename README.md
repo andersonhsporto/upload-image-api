@@ -24,7 +24,7 @@ mvn spring-boot:run
 * Using the IDE
 
 ```
-Run the class ImageUploadApiApplication.java
+Run the class UploadImageApiApplication.java
 ```
 
 # How to use

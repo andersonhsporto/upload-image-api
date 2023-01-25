@@ -46,12 +46,12 @@ In this interface you can upload images and get the images from database.
 # Dependencies
 
 * [Spring Web](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-web) -
-  Spring Web
+  Framework for web applications
 * [Spring Data JPA](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa) -
-  Spring Data JPA
-* [H2 database](https://mvnrepository.com/artifact/com.h2database/h2) - H2 database
-* [Lombok](https://mvnrepository.com/artifact/org.projectlombok/lombok) - Lombok
-* [Angular](https://angular.io/) - Angular
+    Framework for data persistence
+* [H2 database](https://mvnrepository.com/artifact/com.h2database/h2) - Database that runs in memory
+* [Lombok](https://mvnrepository.com/artifact/org.projectlombok/lombok) - Library to reduce boilerplate code
+* [Angular](https://angular.io/) - Framework for web applications
 
 <p align=left> <b>My contact info 📬</b></p>
 <p align=left>

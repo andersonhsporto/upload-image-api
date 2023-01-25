@@ -29,7 +29,7 @@ Run the class ImageUploadApiApplication.java
 
 # How to use
 
-This project has a simple interface build in angular to test the api.
+This project has a simple [interface](https://github.com/andersonhsporto/client-image-upload) build in angular to test the api.
 to access the interface you can use the link below:
 
 ```

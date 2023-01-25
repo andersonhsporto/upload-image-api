@@ -15,7 +15,6 @@ public class ClientController implements ErrorController {
 
   @GetMapping("/client")
   public String getClient() {
-    System.out.println("Client");
     return "forward:/index.html";
   }
 

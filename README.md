@@ -36,7 +36,7 @@ to access the interface you can use the link below:
 {host}/api/v1/client
 ```
 <p align="center">
-<img src="https://github.com/andersonhsporto/upload-image-api/blob/master/img/client.jpg" width="300px" alt="Client"/><br>
+<img src="https://github.com/andersonhsporto/upload-image-api/blob/master/img/client.jpg" width="600" alt="Client"/><br>
 </p>
 
 In this interface you can upload images and get the images from database.
@@ -50,8 +50,8 @@ In this interface you can upload images and get the images from database.
 * [Lombok](https://mvnrepository.com/artifact/org.projectlombok/lombok) - Lombok
 * [Angular](https://angular.io/) - Angular
 
-<p align=center> <b>My contact info 📬</b></p>
-<p align=center>
+<p align=left> <b>My contact info 📬</b></p>
+<p align=left>
 <a href="https://github.com/andersonhsporto" target="_blank"><img src="https://img.shields.io/badge/Github-181717?logo=Github&logoColor=white"/></a>  
 <a href="mailto:anderson.higo2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white"/></a>
 <a href= "https://www.linkedin.com/in/andersonhsporto/"target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
